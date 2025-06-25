@@ -4,4 +4,4 @@ Love for all things automation, CI/CD, containers, and cloud.
 - **Frontend:** Flutter, Flet
 - **DevOps:** Docker, Docker Compose, Kubernetes, CI/CD, Terraform, Ansible
 - **Cloud:** Oracle Cloud, GCP
-- **Other passions:** CAD design, automation
+- **Other passions:** CAD design
